@@ -37,7 +37,8 @@ export default {
 
 <style scoped lang="scss">
 
-    @import './src/styles/header.scss';
+    @import './src/styles/palette.scss';
+    @import './src/styles/header.scss'
 
 </style>
 
