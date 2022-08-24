@@ -16,6 +16,10 @@ export default{
 <style scoped lang="scss">
 
     @import './src/styles/palette.scss';
-    @import './src/styles/main.scss'
+    main{
+        padding: 65px 0px;
+        background-color: $secondary;
+        color: #fff;
+    }   
 
 </style>
