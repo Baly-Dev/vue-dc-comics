@@ -4,6 +4,7 @@
     <AppHeader />
     <AppMain />
     <AppFooter />
+
   </div>
 </template>
 
@@ -17,7 +18,7 @@ export default {
   components: {
     AppHeader,
     AppMain,
-    AppFooter
+    AppFooter,
 }
 }
 </script>
